@@ -2,8 +2,6 @@
 
 Presentation title "Shift Left: Crafting a Rock-Solid Accessibility Workflow for Beginners."
 
-# Resources for Smashing Conferences in 2024
-
 ## Speaker contact information
 
 * [Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/)
