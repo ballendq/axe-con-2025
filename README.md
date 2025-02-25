@@ -2,6 +2,10 @@
 
 Presentation title "Shift Left: Crafting a Rock-Solid Accessibility Workflow for Beginners."
 
+Embark on a journey to create a robust accessibility workflow that catches issues early in the development process. This beginner-friendly session will demonstrate how to integrate multiple Deque tools, including axe DevTools Linter, Browser Extension, Developer Hub, and GitHub Actions.
+
+Learn how to build a seamless pipeline that empowers your team to identify and resolve accessibility problems efficiently, ultimately leading to more inclusive digital experiences.
+
 ## Speaker contact information
 
 * [Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/)
