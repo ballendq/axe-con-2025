@@ -17,13 +17,20 @@ Learn how to build a seamless pipeline that empowers your team to identify and r
 * [Axe DevTools for Web Browser Extension for Google Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?pli=1)
 * [Axe Developer Hub](https://www.deque.com/axe/developer-hub/)
 * [Axe Developer Hub GitHub Action](https://docs.deque.com/developer-hub/2/en/dh-github-action)
+* [Axe DevTools Linter GitHub Action](https://docs.deque.com/linter/4.0.0/en/axe-linter-github-action)
 * [Axe Assistant](https://dequeuniversity.com/introducing-axe-assistant)
 
 Do you want to try these tools at your company? Get all the web testing tools with the ultimate testing toolkit: [axe DevTools for Web](https://www.deque.com/axe/devtools/web-accessibility/)
 
-## Resources for beginners
+## Accessibility - resources for beginners
 
 * [Introduction to Web Accessibility from W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 * [The Beginner's Guide to Web Accessibility from Deque Systems](https://www.deque.com/web-accessibility-beginners-guide/)
 * [How to transform your approach to digital accessibility from a reactive break-fix cycle to a proactive shift left approach](https://www.deque.com/blog/transform-digital-accessibility-from-a-reactive-break-fix-to-a-proactive-shift-left/)
 * [Agile Accessibility Handbook by Dylan Barrell](https://accessibility.deque.com/agile-accessibility-handbook)
+
+## Development workflow - resources for beginners
+
+* [Definition of linter](https://realpython.com/ref/glossary/linter/) (article written in the context of writing python code but concepts are applicable to web development)
+* [What is E2E? A guide to end-to-end testing](https://circleci.com/blog/what-is-end-to-end-testing/)
+* [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/developer-skills/github/a-beginners-guide-to-ci-cd-and-automation-on-github/)
