@@ -1,6 +1,6 @@
 # Resources for axe-con-2025
 
-Presentation title "Shift Left: Crafting a Rock-Solid Accessibility Workflow for Beginners."
+Presentation title "[Shift Left: Crafting a Rock-Solid Accessibility Workflow for Beginners](https://www.deque.com/axe-con/sessions/shift-left-crafting-a-rock-solid-accessibility-workflow-for-beginners/)"
 
 Embark on a journey to create a robust accessibility workflow that catches issues early in the development process. This beginner-friendly session will demonstrate how to integrate multiple Deque tools, including axe DevTools Linter, Browser Extension, Developer Hub, and GitHub Actions.
 
@@ -21,6 +21,10 @@ Learn how to build a seamless pipeline that empowers your team to identify and r
 * [Axe Assistant](https://dequeuniversity.com/introducing-axe-assistant)
 
 Do you want to try these tools at your company? Get all the web testing tools with the ultimate testing toolkit: [axe DevTools for Web](https://www.deque.com/axe/devtools/web-accessibility/)
+
+## Research referenced during talk
+
+[Minimizing code defects to improve software quality and lower development costs](https://public.dhe.ibm.com/software/rational/info/do-more/RAW14109USEN.pdf)
 
 ## Accessibility - resources for beginners
 
